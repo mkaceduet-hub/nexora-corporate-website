@@ -2,6 +2,10 @@
 
 A modern and responsive corporate business website designed to showcase professional services, build brand identity, and deliver a smooth user experience across all devices.
 
+## Live Demo
+
+[View the live website](https://mkaceduet-hub.github.io/nexora-corporate-website/)
+
 ## Overview
 
 NEXORA is a fictional corporate website concept created as a front-end portfolio project. It features a clean visual identity, responsive layouts, and clear calls to action for a professional business presence.
@@ -24,11 +28,17 @@ NEXORA is a fictional corporate website concept created as a front-end portfolio
 - Google Fonts
 - Unsplash images
 
+## Project Files
+
+- `index.html` — website structure and content
+- `style.css` — layout, visual design, and responsive styling
+- `script.js` — mobile navigation and demo form interactions
+
 ## Getting Started
 
 1. Download or clone this repository.
-2. Open `index.html` in your browser.
-3. Explore the website on desktop and mobile screen sizes.
+2. Open the project folder in Sublime Text or your preferred editor.
+3. Open `index.html` in your browser.
 
 No build tools or package installation are required.
 
@@ -42,7 +52,7 @@ No build tools or package installation are required.
 ## Author
 
 **Muhammad Khorshed Alam**  
-[GitHub Profile](https://github.com/mkaceduet-hub) · [Website](https://www.ssdbd.com)
+[GitHub Profile](https://github.com/mkaceduet-hub) · [Suraiya Structural Design & Construction](https://www.ssdbd.com)
 
 ---
 
